@@ -1,2 +1,2 @@
-##Práctica Laravel
-Registro de empleados.
+## Práctica Laravel  
+Ejemplo sencillo de registro de empleados desarrollado con Laravel.
